@@ -18,4 +18,5 @@ shinyServer(function(input, output) {
     data
   }, options = list(lengthMenu = c(5, 15, 30), pageLength = 30))
   
+  
 })
