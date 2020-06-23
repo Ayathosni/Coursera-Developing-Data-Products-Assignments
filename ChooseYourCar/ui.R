@@ -2,7 +2,7 @@ library(markdown)
 
 shinyUI(fluidPage(
   
-    titlePanel("Choose a car that suits your needs"),
+    titlePanel("Choose a car that suits your needs") ,
   
     sidebarLayout(
       sidebarPanel(
